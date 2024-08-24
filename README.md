@@ -1,7 +1,6 @@
 
 ## 🤝 Supporters and Contributors
 
-- Supported By [TEAM God Dc Developers](https://discord.gg/apF2ZBXZVF)
 - **Sub-Developers**: damn.itx.fazy & n0t.see & Ameen Babu
 - **Helpers**: santa_.k
 
